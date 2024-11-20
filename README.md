@@ -8,4 +8,4 @@ Write basic, efficient string-processing functions without relying on prebuilt m
 Practice structuring Python modules by defining constants and reusable functions.
 
 ###  Output:
-<img src='https://imgur.com/a/JeLnguP.jpeg' title='Output' width='' alt='Output' />
+<img src='https://i.imgur.com/ZWQqF37.png' title='Output' width='' alt='Output' />
